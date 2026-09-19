@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alertataxinexo.com.br/sitemap.xml
+Sitemap: https://taxinexo-golpe.vercel.app/sitemap.xml
